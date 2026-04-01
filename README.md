@@ -1,12 +1,12 @@
 # SAMSUNG-Supply-chain-Logistic-Dashboard
-
+<br>
 1. Project Title/ Headline
   SAMSUNG Supply Chain & Logistics Dashboard:
   Transforming Supply Chain Data into Actionable Insights using Power BI Dashboard
-
+<br>
 2.Short Description
   This project focuses on analyzing supply chain and logistics data using Power BI to create an interactive and insightful dashboard. It provides a comprehensive   view of key operations such as shipments, inventory management, supplier performance, and financial metrics. The dashboard transforms raw data into meaningful    visual insights, helping users easily understand patterns, trends, and inefficiencies in the supply chain process.
-  
+ <br> 
 3. Tech Stack
    The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -75,3 +75,4 @@ Represent total shipping cost (169.91K) and monthly trends (peak in October ~20.
 •Improved overall performance tracking with 75% perfect order rate and 27.44% profit margin
 
 6.Screenshot of the Dashboard
+  Link: https://github.com/Tanisha-Dhaka/SAMSUNG-Supply-chain-Logistic-Dashboard/blob/main/Screenshot%20of%20Dashboard.png
