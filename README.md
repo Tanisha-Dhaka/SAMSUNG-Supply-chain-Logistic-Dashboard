@@ -80,4 +80,4 @@
     •Improved overall performance tracking with 75% perfect order rate and 27.44% profit margin
 
 # 6.Screenshot of the Dashboard
-  Link: [Dashboard Preview] https://github.com/Tanisha-Dhaka/SAMSUNG-Supply-chain-Logistic-Dashboard/blob/main/Screenshot%20of%20Dashboard.png
+  Link: [Dashboard Preview] (https://github.com/Tanisha-Dhaka/SAMSUNG-Supply-chain-Logistic-Dashboard/blob/main/Screenshot%20%20of%20Dashboard.png)
