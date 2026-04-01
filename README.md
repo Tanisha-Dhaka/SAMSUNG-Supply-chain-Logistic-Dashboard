@@ -76,4 +76,4 @@ Represent total shipping cost (169.91K) and monthly trends (peak in October ~20.
 •Improved overall performance tracking with 75% perfect order rate and 27.44% profit margin
 
 # 6.Screenshot of the Dashboard
-  Link: https://github.com/Tanisha-Dhaka/SAMSUNG-Supply-chain-Logistic-Dashboard/blob/main/Screenshot%20of%20Dashboard.png
+  Link: [Dashboard Preview] https://github.com/Tanisha-Dhaka/SAMSUNG-Supply-chain-Logistic-Dashboard/blob/main/Screenshot%20of%20Dashboard.png
